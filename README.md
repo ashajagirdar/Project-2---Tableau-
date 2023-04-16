@@ -1,5 +1,7 @@
 # Project-2---Tableau-
 
+[Dashboard](https://public.tableau.com/app/profile/asha1137/viz/DentalPharma_16692272964270/DentalPharma?publish=yes)
+
 **Project Overview**
 
 This project was based on a Dental company called **Dental Pharma**, a company that manufactures and markets pharmeceutical products, particulary for dental use.
@@ -11,5 +13,5 @@ What dental pharma wanted was initially more data visualisations that could help
 
 **Attached Files:**
 - Dashboard Blueprint - that helped me understand what was needed in the initial dashboard beforehand 
-- Link to the Dashboard - The dashboard was created and published using Tableau Public 
+- Link to the Dashboard - **The link can be found above**
 - Powerpoint Presentation - the questions and answers regarding this project 
